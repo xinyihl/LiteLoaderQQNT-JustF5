@@ -1,0 +1,26 @@
+{
+    "manifest_version": 2,
+    "type": "extension",
+    "name": "JustF5",
+    "slug": "justf5",
+    "description": "添加F5刷新页面功能",
+    "version": "0.1.0",
+    "author": [
+        {
+            "name": "xinyihl",
+            "link": "https://github.com/xinyihl"
+        }
+    ],
+    "repository": {
+        "repo": "xinyihl/LiteLoaderQQNT-JustF5",
+        "branch": "main"
+    },
+    "platform": [
+        "win32",
+        "linux",
+        "darwin"
+    ],
+    "injects": {
+        "main": "./main.js"
+    }
+}
