@@ -1,5 +1,5 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 4,
     "type": "extension",
     "name": "JustF5",
     "slug": "justf5",
@@ -14,7 +14,10 @@
     ],
     "repository": {
         "repo": "xinyihl/LiteLoaderQQNT-JustF5",
-        "branch": "main"
+        "branch": "main",
+        "release": {
+            "tag": "latest"
+          }
     },
     "platform": [
         "win32",
