@@ -3,7 +3,7 @@
     "type": "extension",
     "name": "JustF5",
     "slug": "justf5",
-    "description": "添加F5刷新页面功能-若安装了QQNTim无须再安装",
+    "description": "添加F5刷新页面功能",
     "version": "0.1.0",
     "thumbnail": "./icon.png",
     "author": [
