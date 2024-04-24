@@ -5,8 +5,8 @@
     "slug": "justf5",
     "description": "添加F5刷新页面功能",
     "version": "0.1.0",
-    "thumbnail": "./icon.png",
-    "author": [
+    "icon": "./icon.png",
+    "authors": [
         {
             "name": "xinyihl",
             "link": "https://github.com/xinyihl"
@@ -14,10 +14,7 @@
     ],
     "repository": {
         "repo": "xinyihl/LiteLoaderQQNT-JustF5",
-        "branch": "main",
-        "release": {
-            "tag": "latest"
-          }
+        "branch": "main"
     },
     "platform": [
         "win32",
